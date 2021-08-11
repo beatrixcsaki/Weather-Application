@@ -1,0 +1,10 @@
+C:\Users\Beatrix\source\repos\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe.config
+C:\Users\Beatrix\source\repos\WeatherApp\WeatherApp\bin\Debug\WeatherApp.exe
+C:\Users\Beatrix\source\repos\WeatherApp\WeatherApp\bin\Debug\WeatherApp.pdb
+C:\Users\Beatrix\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Form1.resources
+C:\Users\Beatrix\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.Properties.Resources.resources
+C:\Users\Beatrix\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Users\Beatrix\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Beatrix\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.exe
+C:\Users\Beatrix\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.pdb
+C:\Users\Beatrix\source\repos\WeatherApp\WeatherApp\obj\Debug\WeatherApp.csproj.AssemblyReference.cache
